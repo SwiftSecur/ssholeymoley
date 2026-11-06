@@ -5,6 +5,6 @@ Read more here: https://sshhole.com/ if you like....
 
 Credit to Özgün Kültekin for the find.
 
-I also switch to using the number '4' because clearly its way more powerful that a string of 'A's
+I also switched to using the number '4' because clearly its way more powerful that a string of 'A's
 
 
