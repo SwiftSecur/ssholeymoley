@@ -22,7 +22,7 @@ t = paramiko.Transport(socket.create_connection((host, port), timeout=10))
 t.start_client(timeout=10)
 
 
-for pw in ("primer", "A" * 300):
+for pw in ("primer", "4" * 300):
     try:
         t.auth_password(user, pw, fallback=False)
     except (paramiko.SSHException, OSError):
